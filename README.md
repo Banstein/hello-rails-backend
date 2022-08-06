@@ -22,12 +22,13 @@ Start by cloning the repository.
 
 Navigate to the created folder.
 
-`cd my-budget`
+`cd hello-rails-backend`
+`cd hello-react-frontend`
 
 Start the development server
 
 `rails server`
-`./bin/webpack-dev-server`
+`npm start`
 
 
 ## Authors
@@ -51,6 +52,3 @@ Give a ⭐ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
-Remove `node_modules` and `package-lock.json`
-npm cache verify
