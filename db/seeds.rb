@@ -1,0 +1,8 @@
+Greeting.create(name:'Demon souls')
+Greeting.create(name:'Dark souls')
+Greeting.create(name:'Dark souls 2')
+Greeting.create(name:'Dark souls 3')
+Greeting.create(name:'Bloodborne')
+Greeting.create(name:'Sekiro')
+Greeting.create(name:'Demon souls Remasterd')
+Greeting.create(name:'Elden Ring')
