@@ -9,7 +9,7 @@
 
 ## Front-end page
 
-[hello-rails-backend](https://github.com/Banstein/hello-rails-backend)
+[hello-react-frontend](https://github.com/Banstein/hello-react-frontend)
 
 ## Built With
 
