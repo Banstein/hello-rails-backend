@@ -7,7 +7,7 @@
 ![last](https://user-images.githubusercontent.com/35707975/183262341-519e4458-6298-45e5-8675-b8c3b2ee5653.png)
 
 
-## Front-end page
+## Front-end repo
 
 [hello-react-frontend](https://github.com/Banstein/hello-react-frontend)
 
